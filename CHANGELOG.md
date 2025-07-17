@@ -151,7 +151,7 @@ e este projeto adere ao [Versionamento Semântico](https://semver.org/lang/pt-BR
 
 Para dúvidas ou problemas:
 - Abra uma issue no repositório
-- Entre em contato: kaua@voxpopi.com
+- Entre em contato: contatomarlisson@gmail.com
 
 ---
 
