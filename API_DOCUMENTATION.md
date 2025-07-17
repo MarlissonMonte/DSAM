@@ -379,5 +379,3 @@ Para dúvidas sobre a API:
 3. Entre em contato: contatomarlisson@gmail.com
 
 ---
-
-**API desenvolvida com ❤️ por Marlisson Monte** 
