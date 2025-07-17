@@ -288,7 +288,7 @@ Se encontrar problemas:
 1. Verifique os logs do console
 2. Consulte a documentação da API em `http://localhost:5195/swagger`
 3. Abra uma issue no repositório
-4. Entre em contato: kaua@voxpopi.com
+4. Entre em contato: contatomarlisson@gmail.com
 
 ---
 
