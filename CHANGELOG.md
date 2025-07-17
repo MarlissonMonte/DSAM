@@ -154,5 +154,3 @@ Para dúvidas ou problemas:
 - Entre em contato: contatomarlisson@gmail.com
 
 ---
-
-**Desenvolvido com ❤️ por Marlisson Monte** 
