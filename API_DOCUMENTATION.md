@@ -376,7 +376,7 @@ Para dúvidas sobre a API:
 
 1. Consulte a documentação Swagger: `http://localhost:5195/swagger`
 2. Verifique os logs do servidor
-3. Entre em contato: kaua@voxpopi.com
+3. Entre em contato: contatomarlisson@gmail.com
 
 ---
 
