@@ -60,7 +60,7 @@ Sistema completo de agendamentos médicos desenvolvido com
 
 ### 1. Clone o repositório
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/MarlissonMonte/DSAM.git
 cd DSAM
 ```
 
@@ -325,5 +325,3 @@ Para dúvidas ou problemas:
 
 **Marlisson Monte**
 - GitHub: [@MarlissonMonte](https://github.com/MarlissonMonte)
-
-**Desenvolvido com ❤️ por Marlisson Monte** 
