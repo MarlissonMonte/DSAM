@@ -1,0 +1,18 @@
+version: '3.9'
+
+services:
+  db:
+    image: postgres:15
+    container_name: dsam_postgres
+    restart: always
+    environment:
+      POSTGRES_DB: dsam
+      POSTGRES_USER: dsam_user
+      POSTGRES_PASSWORD: dsam_password
+    ports:
+      - '5433:5432'
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  postgres_data: 
