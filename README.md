@@ -319,26 +319,11 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 Para dúvidas ou problemas:
 - Abra uma issue no repositório
-- Entre em contato: kaua@voxpopi.com
+- Entre em contato: contatomarlisson@gmail.com
 
 ## 👨‍💻 Autor
 
 **Marlisson Monte**
 - GitHub: [@MarlissonMonte](https://github.com/MarlissonMonte)
-- LinkedIn: [Marlisson Monte](https://www.linkedin.com/in/marlisson-monte/)
-
-## 🎯 Próximas Funcionalidades
-
-- [ ] Notificações por email
-- [ ] Chat entre médico e paciente
-- [ ] Upload de documentos
-- [ ] Relatórios e estatísticas avançadas
-- [ ] Integração com sistemas externos
-- [ ] App mobile (React Native)
-- [ ] Sistema de avaliações
-- [ ] Histórico médico
-- [ ] Prescrições digitais
-
----
 
 **Desenvolvido com ❤️ por Marlisson Monte** 
